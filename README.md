@@ -200,7 +200,7 @@ rotation_matrix = cv2.getRotationMatrix2D((width / 2, height / 2), angle, 1)
 
 # Perform image rotation
 rotated_image = cv2.warpAffine(image, rotation_matrix, (width, height))
-
+ 
 # Display original and rotated images
 print("Original Image:")
 show_image(image)
