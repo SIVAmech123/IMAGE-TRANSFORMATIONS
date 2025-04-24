@@ -26,8 +26,8 @@ Thus the program is executed in jupyter notebook.
 
 ## Program:
 ```
-Developed By: ANBU VINOTHA S
-Register Number: 21223230015
+Developed By: SIVAKUMAR R
+Register Number: 212223230209
 ```
 
 i)Image Translation
